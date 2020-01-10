@@ -10,3 +10,6 @@
 [submodule "parity-example-multiple-test-case"]
 	path = parity-example-multiple-test-case
 	url = https://github.com/nullenboom/parity-example-multiple-test-case.git
+[submodule "example-scenario-eth-gas-reports"]
+	path = example-scenario-eth-gas-reports
+	url = https://github.com/nullenboom/example-scenario-eth-gas-reports.git
