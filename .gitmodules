@@ -1,0 +1,12 @@
+[submodule "increment-number-example"]
+	path = increment-number-example
+	url = https://github.com/nullenboom/increment-number-example.git
+[submodule "average-calc-example"]
+	path = average-calc-example
+	url = https://github.com/nullenboom/average-calc-example.git
+[submodule "parity-example-truffle-box"]
+	path = parity-example-truffle-box
+	url = https://github.com/nullenboom/parity-example-truffle-box
+[submodule "parity-example-multiple-test-case"]
+	path = parity-example-multiple-test-case
+	url = https://github.com/nullenboom/parity-example-multiple-test-case.git
