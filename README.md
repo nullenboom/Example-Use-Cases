@@ -18,8 +18,8 @@ Init submodules:
 Update submodules:
 ``git submodule update`` 
 
-Go into an use-case of your choice. Start your locale blockchain and use truffle to execute the test-cases. 
-If you are using scenario-eth-gas-cli, it will configure the truffle-config file for you. If you are just using the scenario-eth-gas-reporter you need to add some lines to the truffle-config file. 
+Go into an use-case of your choice. Start your locale blockchain (or copy the script folder if you are using the scenario-eth-gas-cli) and use truffle to execute the test-cases. 
+Truffle-Config.js file is already configured to use the scenario-eth-gas-reporter, but it needs to be installed.
 See the respective repo for installation instruction.
 
 ## Example Reports
