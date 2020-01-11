@@ -43,3 +43,13 @@ Add a Number to a sum and calculate average. AvgOnDemand calculates the average 
 | Scenario C     |   1-15  | 100-150 |
 
 ### Third Use-Case: Different Solidity Compiler Options
+Increment a counter.
+* 4 different Compiler Options 
+  * Compiler Version 0.5.0
+  * Compiler Version 0.5.0 with Optimizer (Runs = 200)
+  * Compiler Version 0.5.15
+  * Compiler Version 0.5.15 with Optimizer (Runs = 200)
+* 2 Implement Variants
+  * IncrementShort
+  * IncrementLong
+* 1 Usage-Scenario (one function call)
