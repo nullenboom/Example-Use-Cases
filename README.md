@@ -42,9 +42,9 @@ Add a Number to a sum and calculate average.
   * AvgOnDemand: calculates the average on demand.
   * AvgOnObserv: calculates the average every time the add function is called and saves it into an variable
 * Three Usage-Scenario with different numbers of function calls:
- * Scenario A: 100 - 150 Add / 1-15 Calc 
- * Scenario B: 1-150 Add and Calc
- * Scenario C: 1-15 Add / 100-150 Calc
+  * Scenario A: 100 - 150 Add / 1-15 Calc 
+  * Scenario B: 1-150 Add and Calc
+  * Scenario C: 1-15 Add / 100-150 Calc
 
 
 ### Third Use-Case: Different Solidity Compiler Options
