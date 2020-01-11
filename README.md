@@ -1,5 +1,4 @@
 # Example-Use-Cases 
-https://github.com/nullenboom/Example-Use-Cases/blob/master/README.md
 Grouped example uses-cases used in master thesis "Engineering an Analysis Tool for Comparing Transaction Costs in Ethereum Smart Contracts" written at University of Duisburg-Essen
 Germany.
 
