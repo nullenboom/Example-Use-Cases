@@ -28,19 +28,24 @@ If you are only interested for example result: At least one report for each use-
 ## Description of Use-Cases
 ### First Use-Case: Check Parity
 Parity of two input number will be checked for parity: 
-* Two Implement-Variants (Modulo-Operator and Binary-Comparison)
-* Two Usage-Scenario (Both even Numbers, One Even/One uneven Number)
+* Two Implement-Variants
+  * Modulo-Operator
+  * Binary-Comparison
+* Two Usage-Scenario 
+  * Both even Numbers (10, 20)
+  * One Even/One uneven Number (10, 5)
+
 
 ### Second Use-Case: Add Numbers and calculate Average
-Add a Number to a sum and calculate average. AvgOnDemand calculates the average on demand. AvgOnObserv calculates the average every time the add function is called and saves it into an variable
+Add a Number to a sum and calculate average. 
 * Two Implement-Variants (AvgOnDemand and AvgOnObserv)
+  * AvgOnDemand: calculates the average on demand.
+  * AvgOnObserv: calculates the average every time the add function is called and saves it into an variable
 * Three Usage-Scenario with different numbers of function calls:
+ * Scenario A: 100 - 150 Add / 1-15 Calc 
+ * Scenario B: 1-150 Add and Calc
+ * Scenario C: 1-15 Add / 100-150 Calc
 
-| Usage-Scenario |   Add   |   Calc  |
-|:--------------:|:-------:|:-------:|
-| Scenario A     | 100-150 |   1-15  |
-| Scenario B     |  1-150  |  1-150  |
-| Scenario C     |   1-15  | 100-150 |
 
 ### Third Use-Case: Different Solidity Compiler Options
 Increment a counter.
