@@ -57,4 +57,5 @@ Increment a counter.
 * 2 Implement Variants
   * IncrementShort
   * IncrementLong
-* 1 Usage-Scenario (one function call)
+* 1 Usage-Scenario 
+  * one function call
