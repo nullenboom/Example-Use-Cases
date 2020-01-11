@@ -1,5 +1,5 @@
 # Example-Use-Cases 
-
+https://github.com/nullenboom/Example-Use-Cases/blob/master/README.md
 Grouped example uses-cases used in master thesis "Engineering an Analysis Tool for Comparing Transaction Costs in Ethereum Smart Contracts" written at University of Duisburg-Essen
 Germany.
 
@@ -28,10 +28,10 @@ If you are only interested for example result: At least one report for each use-
 
 ## Description of Use-Cases
 ### First Use-Case: Check Parity
-Parity of two input number will be checked with two implement variants for parity: 
-* modulo-operator
-* binary comparison 
-Two usage-scenario are used in this example. In one the given input numbers are both even numbers (10 and 20), in the second one is even and the second one is uneven (10 and 5) 
+Parity of two input number will be checked for parity: 
+* Two Implement-Variants (Modulo-Operator and Binary-Comparison)
+* Two Usage-Scenario (Both even Numbers, One Even/One uneven Number)
+
 ### Second Use-Case: Add Numbers and calculate Average
 
 ### Third Use-Case: Different Solidity Compiler Options
