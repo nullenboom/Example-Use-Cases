@@ -1,6 +1,5 @@
 # Example-Use-Cases 
-Grouped example uses-cases used in master thesis "Engineering an Analysis Tool for Comparing Transaction Costs in Ethereum Smart Contracts" written at University of Duisburg-Essen
-Germany.
+Grouped example uses-cases used in master thesis "Engineering an Analysis Tool for Comparing Transaction Costs in Ethereum Smart Contracts" written at University of Duisburg-Essen Germany to evaluate the developed tools [scenario-eth-gas-cli](https://github.com/nullenboom/scenario-eth-gas-cli) and [scenario-eth-gas-reporter](https://github.com/nullenboom/scenario-eth-gas-reporter)
 
 ## Description
 Designed use-cases can be used to evaluate the scenario-eth-gas-cli/scenario-eth-gas-reporter which was implemented in the master thesis.
