@@ -32,5 +32,14 @@ Parity of two input number will be checked for parity:
 * Two Usage-Scenario (Both even Numbers, One Even/One uneven Number)
 
 ### Second Use-Case: Add Numbers and calculate Average
+Add a Number to a sum and calculate average. AvgOnDemand calculates the average on demand. AvgOnObserv calculates the average every time the add function is called and saves it into an variable
+* Two Implement-Variants (AvgOnDemand and AvgOnObserv)
+* Three Usage-Scenario with different numbers of function calls:
+
+| Usage-Scenario |   Add   |   Calc  |
+|:--------------:|:-------:|:-------:|
+| Scenario A     | 100-150 |   1-15  |
+| Scenario B     |  1-150  |  1-150  |
+| Scenario C     |   1-15  | 100-150 |
 
 ### Third Use-Case: Different Solidity Compiler Options
