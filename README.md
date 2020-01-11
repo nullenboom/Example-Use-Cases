@@ -28,9 +28,10 @@ If you are only interested for example result: At least one report for each use-
 
 ## Description of Use-Cases
 ### First Use-Case: Check Parity
-Parity of two input number will be checked with two implement variants for parity. <br>
+Parity of two input number will be checked with two implement variants for parity: 
 * modulo-operator
 * binary comparison 
+Two usage-scenario are used in this example. In one the given input numbers are both even numbers (10 and 20), in the second one is even and the second one is uneven (10 and 5) 
 ### Second Use-Case: Add Numbers and calculate Average
 
 ### Third Use-Case: Different Solidity Compiler Options
